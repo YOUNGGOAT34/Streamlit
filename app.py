@@ -116,28 +116,5 @@ elif display_option=="Total Hispanic Population across the states":
 # git commit -m "first commit"
 # git branch -M main
 # git remote add origin https://github.com/KeerthiReddyyyy/DemographicApp.git
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # git push -u origin main
 
