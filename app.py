@@ -1,7 +1,7 @@
 # type: ignore
 import numpy as np 
 import pandas as pd 
-from scipy import stats 
+
 import streamlit as st 
 from plots import (
     general_histograms,
