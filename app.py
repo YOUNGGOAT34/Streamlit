@@ -1,7 +1,7 @@
 # type: ignore
 import numpy as np 
 import pandas as pd 
-from scipy import stats 
+
 import streamlit as st 
 from plots import (
     general_histograms,
@@ -115,6 +115,6 @@ elif display_option=="Total Hispanic Population across the states":
 # git add README.md
 # git commit -m "first commit"
 # git branch -M main
-# git remote add origin https://github.com/KeerthiReddyyyy/DemographicApp.git
+# git remote add origin https://https://github.com/YOUNGGOAT34/Streamlit
 # git push -u origin main
 
